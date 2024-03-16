@@ -20,22 +20,36 @@ Poslední (resp. prostřední) tlačítko slouží k vymazání formuláře.
 ## Screenshoty
 
 Po spusteni aplikace: 
+
 ![](doc/zakladni_okno.png)
 
 
 Špatně vyplněný obash:
+
 ![](doc/vadne_vyplneno.png)
 
+
+
 Po kliknuti na tlačítko `Validovat`:
+
 ![](doc/vadne_vyplneno_validate.png)
 
+
+
 Kompletní a správné vyplnění:
+
 ![](doc/vyplneno.png)
 
+
+
 A validace správného vyplnění:
+
 ![](doc/vyplneno_validate.png)
 
+
+
 Po sktisknuti tlačítka `Clear`:
+
 ![](doc/clear.png)
 
 
