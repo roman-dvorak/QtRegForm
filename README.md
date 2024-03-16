@@ -44,8 +44,8 @@ Po sktisknuti tlačítka `Clear`:
 
 ``` bash
 
-  mkdir build || true
-  cd build
+  mkdir src/build || true
+  cd src/build
   cmake ..
   make 
 ```
